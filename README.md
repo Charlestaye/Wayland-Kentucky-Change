@@ -11,5 +11,5 @@ Wayland, KY
 
 These maps were created by Charles Petty for GEO409 using kyraster.gov data and then modified using python in ArcGISPro
 
-![Wayland Flyover](animation.jpg)  
-_[Name of the link for video](https://www.youtube.com/watch?v=nFV8ftGN0aM)_
+![Wayland Flyover](waylandflyover.png)  
+_[Wayland Flyover](https://youtu.be/A0IG-MNfNhs)_
